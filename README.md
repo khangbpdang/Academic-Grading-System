@@ -1,5 +1,5 @@
 # CSC-440-Project | CSC 440 Project (Fall 2017)
-
+## The project is built using BlueJ, an integrated development environment for the Java mainly used for educational purposes. Link to the website is here: https://www.bluej.org/
 ### You have been hired to develop a software system for displaying students’ grades online. This system will be used by students, professors, and TAs. All types of users are required to log in upon accessing the system. Once logged in, the different users can do the following:
 
 - Students will be able to view the grades for individual assignments for each of the
