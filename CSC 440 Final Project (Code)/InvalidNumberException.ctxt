@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InvalidNumberException
+comment0.text=\n\ Write\ a\ description\ of\ class\ InvalidNumberException\ here.\n\n\ InvalidNumberException\ to\ represent\ a\ wrong\ numerical\ value\ being\ passed\n
+comment1.params=
+comment1.target=InvalidNumberException()
+comment2.params=newNum
+comment2.target=InvalidNumberException(int)
+comment3.params=
+comment3.target=int\ returnVariable()
+comment4.params=message
+comment4.target=InvalidNumberException(java.lang.String)
+numComments=5

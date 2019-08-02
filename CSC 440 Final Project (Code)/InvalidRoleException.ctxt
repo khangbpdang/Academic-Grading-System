@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InvalidRoleException
+comment0.text=\n\ Write\ a\ description\ of\ class\ InvalidRole\ here.\n\ \n\ InvalidRoleException\ to\ represent\ a\ wrong\ Account\ object's\ role\ being\ passed\n
+comment1.params=
+comment1.target=InvalidRoleException()
+comment2.params=newRole
+comment2.target=InvalidRoleException(char)
+comment3.params=
+comment3.target=char\ returnVariable()
+comment4.params=message
+comment4.target=InvalidRoleException(java.lang.String)
+numComments=5
